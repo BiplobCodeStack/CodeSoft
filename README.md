@@ -9,15 +9,16 @@ Projects Overview :
 This project involves creating a simple and intuitive to-do list application. The application allows users to add, edit, and delete tasks, helping them manage their daily activities efficiently. Key features include task categorization, due dates, and priority levels.
 
 3. Calculator with Arithmetic Operations
+   
 A fundamental project to reinforce basic Python concepts, this calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The project emphasizes clean code practices and user-friendly interface design.
 
-4. Password Generator Application
+5. Password Generator Application
 Security is paramount in today's digital age. This project focuses on developing a password generator that creates strong, random passwords. Users can customize the length and complexity of the passwords, ensuring robust security for their online accounts.
 
-5. Rock-Paper-Scissors Game
+6. Rock-Paper-Scissors Game
 Adding a fun element to the mix, this project involves creating a simple rock-paper-scissors game. The game is designed to be interactive and engaging, with the computer randomly selecting its move. This project highlights the use of conditional statements and random number generation.
 
-6. Contact Information Application
+7. Contact Information Application
 An application designed to store and manage contact information. Users can add, edit, and delete contacts, with features such as search and sort functionality. This project emphasizes data storage and retrieval, as well as user interface design.
 
 Conclusion
