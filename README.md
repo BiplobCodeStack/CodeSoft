@@ -1,4 +1,4 @@
-# CodeSoft
+# Internship Projects at CodeSoft
 Welcome to my internship journey at CodeSoft! 🚀 
 
 This repository houses is dedicated to the projects and tasks I am working on during my internship at CodeSoft. As part of my role, I am focusing on enhancing my Python programming skills by engaging in a variety of projects. Each project is designed to tackle different aspects of Python development, providing a comprehensive learning experience.
