@@ -5,6 +5,7 @@ This repository houses is dedicated to the projects and tasks I am working on du
 
 Projects Overview :
 1. To-Do List Application
+<br>
 This project involves creating a simple and intuitive to-do list application. The application allows users to add, edit, and delete tasks, helping them manage their daily activities efficiently. Key features include task categorization, due dates, and priority levels.
 
 3. Calculator with Arithmetic Operations
